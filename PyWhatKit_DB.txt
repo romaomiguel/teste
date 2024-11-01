@@ -1,0 +1,10 @@
+Date: 1/11/2024
+Time: 9:38
+Phone Number: +5565999161641
+Message: Aviso: O produto 'Produto Teste' está com validade próxima (2024-11-05)
+--------------------
+Date: 1/11/2024
+Time: 10:10
+Phone Number: +5565999161641
+Message: Aviso: O produto 'Produto Teste' está com validade próxima (2024-11-30) e precisa ser verificado.
+--------------------
